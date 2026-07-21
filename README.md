@@ -18,6 +18,8 @@ Your task is to examine and uncover every hidden piece of evidence, and determin
 Nothing is ever hidden in just one place.
 
 **Flag format:** 
-`flag{missing person's job_release date}`
+`flag{----------_------}`
+
+First part of flag is the missing person's job all in lower caps and no spaces, second part is the release date in format ddmmyy.
 
 
