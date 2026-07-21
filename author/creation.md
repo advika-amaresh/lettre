@@ -17,6 +17,7 @@ Key steps include:
 - Binwalk
 - zip / unzip
 - macOS Terminal
+- Google
 
 ## Easter Egg
 The letter is addressed to a person called "Anetta" who is actually my friend in real life and also loves the series as much as I do :)
