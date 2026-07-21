@@ -1,6 +1,6 @@
 # Creation of the CTF
 
-This was very much inspired by Miraculous: Tales of Ladybug & Cat Noir, which has been quite a hyperfixation recently (which occurs every year). The main objective was to create a OSINT + Digital Forensics CTF for the last task for the cybersecurity domain of ISTE summer school.
+This was very much inspired by Miraculous: Tales of Ladybug & Cat Noir, which has been quite a hyperfixation recently (which occurs every year). The main objective was to create a OSINT + Digital Forensics CTF as the last task for the cybersecurity domain of ISTE summer school.
 Key steps include:
 Discover a hidden ZIP archive inside an image. 
 Analyze metadata from an extracted image. 
