@@ -18,6 +18,6 @@ Your task is to examine and uncover every hidden piece of evidence, and determin
 Nothing is ever hidden in just one place.
 
 **Flag format:** 
-`flag{writer's job_release date}`
+`flag{missing person's job_release date}`
 
 
